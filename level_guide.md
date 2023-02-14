@@ -99,6 +99,8 @@ You can escape Hayato without Takuma shooting the ice if you hit the guard with 
 
 This can one of the tougher levels since you don't have weapons, but you can permanantly deal with enemies by throwing them off the numerous cliffs to make things a little easier.
 
+If you lure away Aiko's guards, they will rush back to her as soon as you release her.
+
 Mugen's cutscene is unskippable, but you can make the dialogue go faster by spamming click and ENTER. Once the screen widens, Mugen will wait for a player input before performing seppuku, otherwise he'll just sit there for ages.
 
 
