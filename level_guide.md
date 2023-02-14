@@ -3,6 +3,9 @@ Level-specific info and tricks
 * Base Game Levels: https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#base-game-levels
 * DLC Levels: https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#dlc-levels---aikos-choice
 
+When I refer to "left" and "right" I mean from the perspective of the camera's default position upon loading the level.
+
+
 # Base Game Levels
 
 ## Osaka Castle
@@ -81,6 +84,8 @@ Killing the officers and rescuing the prisoners are optional.
 Killing an officer triggers allied forces to kill all enemies within an area around them. Enemies that you lure into this area will also be killed.
 
 You can throw a grenade through the castle's front gate if you click to the side of the watchtower in the main courtyard.
+
+Only the large barrel in the castle courtyard can blow up the depot, the small ones near Okkoto's tent don't affect it.
 
 Okkoto has the same properties as a samurai, so anything that takes them down will take him down, including Mugen's pistol or an explosive barrel placed at his spawn location before he appears.
 
