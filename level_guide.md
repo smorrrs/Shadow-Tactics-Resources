@@ -141,6 +141,8 @@ Nothing particularly noteworthy.
 
 
 ## Hana Gakuen
+Letting the first mid-level cutscene (passing through the statue puzzle door) play out some will move your characters' starting position compared to skipping the cutscene immediately, giving you a bit of free distance traveled in IGT.
+
 Teleporting to the floor spike trap's switch while holding CTRL to activate it can teleport you into the activating spikes, insta-killing yourself. To avoid this, teleport without holding CTRL, or you can also adjust the camera angle to a position where this doesn't happen.
 
 Chiyo doesn't have any special defenses, anything that kills a normal enemy will take her out.
