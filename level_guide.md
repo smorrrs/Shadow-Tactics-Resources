@@ -20,10 +20,12 @@ You're meant to take the explosive barrel up to the roof of the gate and toss it
 ## Nakasendo Road
 The cutscene where you meet Yuki doesn't reset guard routes, so any time you've taken watching the first cutscene and getting past the first guards will contribute to guards' positions upon ending Yuki's cutscene.
 
-There's a small window where you can whistle both officers on the left side of the map to the boulder at the same time. It's possible to crush them both with the boulder, but it requires luck, so you may have to do some cleanup if you can only get one.
+There's a small time window where you can whistle both officers on the left side of the map to the boulder at the same time. It's possible to crush them both with the boulder, but it requires luck, so you may have to do some cleanup if you can only get one.
 
 
 ## Imai Town
+Mugen gets unlocked once Yuki touches the ground inside his courtyard. If Yuki teleports to the hook near him she'll trigger the cutscene and start the next section already on the roof.
+
 Yuki and Mugen regrouping inside the compound and watching the subsequent cutscene is not necessary to complete the level.
 
 You can steal the official's documents from the roof, and any roof works as long as the official is close enough, whether it be on his normal path or if he's lured in.
@@ -32,7 +34,7 @@ You can steal the official's documents from the roof, and any roof works as long
 ## Mount Tsuru
 The first area's guards will always start in the same place unless you play almost the entire intro cutscene.
 
-It's possible to take out the samurai guarding Takuma only using Aiko, but you can't progress the mission until you bring Mugen all the way to Takuma.
+It's possible to take out the samurai guarding Takuma only using Aiko, but you can't progress the mission until you bring Mugen to Takuma.
 
 
 ## Lord Yabu's Estate
@@ -42,7 +44,7 @@ Yabu will also appear if you let the intro cutscene play out until he appears (o
 
 If he's outside and there's an alert, he'll run back to his room.
 
-There are many ways to kill Yabu. Pistols and shuriken won't work, but you can 
+There are many ways to kill Yabu. Pistols and shuriken won't work, but you can:
 * stab him
 * poison his tea
 * snipe him from the island tower or from inside the compound
@@ -58,7 +60,7 @@ If you knock out Yabu without anyone seeing you (e.g. with a well-planned jump k
 ## Hida Village
 This level strangely has several locations where you can perform a jump stab from the ground, which can be used for teleports.
 
-When eavesdropping on Okkoto, sitting in a certain area in the corner of the buildings in front of Okkoto will cause him to bug out and do a little dance, and the eavesdrop bar will remain empty resulting in a soft lock.
+When eavesdropping on Okkoto, sitting in a certain area in the corner of the buildings in front of Okkoto will cause him to bug out and do a little dance, and the eavesdrop bar will stay empty resulting in a soft lock.
 
 If you're teleporting to the door next to him and want to avoid this, make sure to hug the doorframe right outside the edge of his full vision and you should be okay.
 
