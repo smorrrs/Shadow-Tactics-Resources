@@ -1,12 +1,33 @@
 # Level Guide
 Level-specific info and tricks
 * Base Game Levels: https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#base-game-levels
-* DLC Levels: 
+* DLC Levels: https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#dlc-levels---aikos-choice
 
 # Base Game Levels
 
-## Devil's Canyon Chapter 1
-Triggers to progress level:
+## Osaka Castle
+
+## Nakasendo Road
+
+## Imai Town
+
+## Lord Yabu's Estate
+
+## Hida Village
+
+## Suganuma Village
+
+## Kanazawa Castle
+
+## Kage-sama's Camp
+
+## Mount Tsuru Prison
+
+## Matsuyama City
+
+## Myougi Pass
+
+## Sunpu Castle
 
 
 
@@ -14,3 +35,11 @@ Triggers to progress level:
 # DLC Levels - Aiko's Choice
 
 ## Nagoya City
+
+## Ise Bay
+
+## Toba Coastline
+
+## Matsuyama City 2
+
+## Hana Gakuen
