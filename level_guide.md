@@ -76,6 +76,8 @@ The group of guards at the level exit will appear once one of your characters en
 
 
 ## Kanazawa Castle
+Killing the officers and rescuing the prisoners are optional.
+
 Killing an officer triggers allied forces to kill all enemies within an area around them. Enemies that you lure into this area will also be killed.
 
 You can throw a grenade through the castle's front gate if you click to the side of the watchtower in the main courtyard.
@@ -84,13 +86,13 @@ Okkoto has the same properties as a samurai, so anything that takes them down wi
 
 
 ## Kage-sama's Camp
-In Kage-sama's Camp, you end the level by carrying imposter Kage's body off of his mat. However, the direction you carry imposter Kage affects how far you have to go before the cutscene triggers. Carrying him to the left is slightly faster than taking him right. Carrying him down is really slow, and carrying him up doesn't trigger the cutscene at all.
+You end the level by carrying imposter Kage's body away from his mat. However, the direction you carry him affects how far you have to go before the cutscene triggers. Carrying him to the left is slightly faster than taking him right. Carrying him down is really slow, and carrying him up doesn't trigger the cutscene at all.
 
 
 ## Mount Tsuru Prison
 You can escape Hayato without Takuma shooting the ice if you hit the guard with a rock to make him open the cell door. 
 
-This can one of the tougher levels due to having to knock out guards since you don't have weapons, but you can permanantly deal with enemies by throwing them off the numerous cliffs.
+This can one of the tougher levels since you don't have weapons, but you can permanantly deal with enemies by throwing them off the numerous cliffs to make things a little easier.
 
 Mugen's cutscene is unskippable, but you can make the dialogue go faster by spamming click and ENTER. Once the screen widens, Mugen will wait for a player input before performing seppuku, otherwise he'll just sit there for ages.
 
