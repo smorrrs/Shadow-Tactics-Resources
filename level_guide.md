@@ -11,7 +11,7 @@ Base Game Levels: https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/
 * [Suganuma Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#suganuma-village)
 * [Kanazawa City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#kanazawa-city)
 * [Kage-sama's Camp](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#kage-samas-camp)
-* [Mount Tsuru Prison](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#mount-tsuru-prison)
+* [Mount Tsuru (Prison)](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#mount-tsuru-prison)
 * [Matsuyama City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#matsuyama-city)
 * [Myougi Pass](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#myougi-pass)
 * [Sunpu Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#sunpu-castle)
@@ -115,7 +115,7 @@ Okkoto has the same properties as a samurai, so anything that takes them down wi
 You end the level by carrying imposter Kage's body away from his mat. However, the direction you carry him affects how far you have to go before the cutscene triggers. Carrying him to the left is slightly faster than taking him right. Carrying him down is really slow, and carrying him up doesn't trigger the cutscene at all.
 
 
-## Mount Tsuru Prison
+## Mount Tsuru (Prison)
 You can escape Hayato without Takuma shooting the ice if you hit the guard with a rock to make him open the cell door. 
 
 This can one of the tougher levels since you don't have weapons, but you can permanantly deal with enemies by throwing them off the numerous cliffs to make things a little easier.
