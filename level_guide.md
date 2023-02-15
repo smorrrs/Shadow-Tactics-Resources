@@ -158,7 +158,7 @@ Nothing particularly noteworthy.
 
 
 ## Matsuyama City 2
-Nothing particularly noteworthy.
+Only Aiko can pick up the document from the samurai. She can take it from him whether he's alive or dead.
 
 
 ## Hana Gakuen
