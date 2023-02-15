@@ -158,7 +158,7 @@ The level ends when (1) all 5 crates are destroyed, and (2) Takuma is in the lif
 
 
 ## Matsuyama City 2
-Only Aiko can pick up the document from the samurai. She can take it from him whether he's alive or dead.
+Either character can pick up the document from the samurai when he's killed or knocked out.
 
 
 ## Hana Gakuen
