@@ -1,7 +1,7 @@
 # Level Guide
 Level-specific info and tricks
 
-Base Game Levels: https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#base-game-levels
+Base Game Levels:
 * [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#osaka-castle)
 * [Nakasendo Road](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#nakasendo-road)
 * [Imai Town](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#imai-town)
