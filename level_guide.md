@@ -110,7 +110,7 @@ If you cause an alert in Masaru's compound, Masaru will run into its main buildi
 
 
 ## Myougi Pass
-The drugged alcohol only works if the servant brings it to them, so killing her prohibits that strategy.
+The drugged alcohol only works if the servant brings it to the guards, so taking out the servant prohibits that strategy.
 
 
 ## Sunpu Castle
