@@ -1,7 +1,28 @@
 # Level Guide
 Level-specific info and tricks
-* Base Game Levels: https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#base-game-levels
-* DLC Levels: https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#dlc-levels---aikos-choice
+
+Base Game Levels: https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#base-game-levels
+* [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#osaka-castle)
+* [Nakasendo Road](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#nakasendo-road)
+* [Imai Town](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#imai-town)
+* [Mount Tsuru](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#mount-tsuru)
+* [Lord Yabu's Estate](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#lord-yabus-estate)
+* [Hida Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#hida-village)
+* [Suganuma Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#suganuma-village)
+* [Kanazawa City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#kanazawa-city)
+* [Kage-sama's Camp](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#kage-samas-camp)
+* [Mount Tsuru Prison](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#mount-tsuru-prison)
+* [Matsuyama City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#matsuyama-city)
+* [Myougi Pass](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#myougi-pass)
+* [Sunpu Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#sunpu-castle)
+
+DLC Levels:
+* [Nagoya City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#nagoya-city)
+* [Ise Bay](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#ise-bay)
+* [Toba Coastline](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#toba-coastline)
+* [Matsuyama City 2](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#matsuyama-city-2)
+* [Hana Gakuen](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#hana-gakuen)
+* [Epilogue](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#epilogue)
 
 When I refer to "left" and "right" I mean from the perspective of the camera's default position upon loading the level.
 
@@ -78,7 +99,7 @@ Recovering Mugen's gear is not necessary to complete the level.
 The group of guards at the level exit will appear once one of your characters enters a certain area of the map after the villagers have been freed, most notably once they walk down the main ramp from the top level (where the villagers start) to the second level. The exit guards spawn clustered in a ball, which is convenient if you've got Takuma waiting there with a grenade. There are also trigger zones around the ladders on the right side of the map, and also on the left side of the map meaning that all paths are covered (except for teleports).
 
 
-## Kanazawa Castle
+## Kanazawa City
 Killing the officers and rescuing the prisoners are optional.
 
 Killing an officer triggers allied forces to kill all enemies within an area around them. Enemies that you lure into this area will also be killed.
