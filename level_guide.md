@@ -1,5 +1,5 @@
 # Level Guide
-Level-specific info and tricks
+Level-specific info and tricks.
 
 Base Game Levels:
 * [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#osaka-castle)
