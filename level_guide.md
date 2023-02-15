@@ -154,7 +154,7 @@ The sleeping guard by Takuma's cage won't wake up if Takuma runs by him or even 
 
 
 ## Toba Coastline
-Nothing particularly noteworthy.
+The level ends when (1) all 5 crates are destroyed, and (2) Takuma is in the lifeboat. Your other character's locations don't matter.
 
 
 ## Matsuyama City 2
@@ -164,7 +164,7 @@ Only Aiko can pick up the document from the samurai. She can take it from him wh
 ## Hana Gakuen
 Letting the first mid-level cutscene (passing through the statue puzzle door) play out some will move your characters' starting position compared to skipping the cutscene immediately, giving you a bit of free distance traveled in IGT.
 
-Teleporting to the floor spike trap's switch while holding CTRL to activate it can teleport you into the activating spikes, insta-killing yourself. To avoid this, teleport without holding CTRL, or you can also adjust the camera angle to a position where this doesn't happen.
+Teleporting to the complex entrance's floor spike trap's switch while holding CTRL to activate it can teleport you into the activating spikes, insta-killing yourself. To avoid this, teleport without holding CTRL, or you can also adjust the camera angle to a position where this doesn't happen.
 
 Chiyo doesn't have any special defenses, anything that kills a normal enemy will take her out.
 
