@@ -13,4 +13,5 @@ Resources for speedrunning Shadow Tactics: Blades of the Shogun
 ## Other Resources
 
 **Leaderboard**
-* https://www.speedrun.com/shadow_tactics
+* Base Game: https://www.speedrun.com/shadow_tactics
+* Aiko's Choice (DLC): https://www.speedrun.com/shadow_tactics_aikos_choice
