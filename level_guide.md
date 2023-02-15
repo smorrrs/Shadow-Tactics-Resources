@@ -154,7 +154,7 @@ The sleeping guard by Takuma's cage won't wake up if Takuma runs by him or even 
 
 
 ## Toba Coastline
-The level ends when (1) all 5 crates are destroyed, and (2) Takuma is in the lifeboat. Your other character's locations don't matter.
+The level ends when (1) all 5 crates are destroyed, and (2) Takuma is in the lifeboat. Your other characters' locations don't matter.
 
 
 ## Matsuyama City 2
