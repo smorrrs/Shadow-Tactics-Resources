@@ -1,6 +1,8 @@
 # Level Guide
 Level-specific info and tricks.
 
+When I refer to "left" and "right" I mean from the perspective of the camera's default position upon loading the level.
+
 Base Game Levels:
 * [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#osaka-castle)
 * [Nakasendo Road](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#nakasendo-road)
@@ -23,8 +25,6 @@ DLC Levels:
 * [Matsuyama City 2](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#matsuyama-city-2)
 * [Hana Gakuen](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#hana-gakuen)
 * [Epilogue](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#epilogue)
-
-When I refer to "left" and "right" I mean from the perspective of the camera's default position upon loading the level.
 
 
 # Base Game Levels
