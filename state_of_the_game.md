@@ -1,11 +1,15 @@
 # State of the Game - Any%
 Information on where potential time save can be had over WRs in the Any% category at the time of writing. 
 
-The No Major Glitches (NMG category), also called No Teleports, is pretty optimized, but of course there's always potential for new route discoveries or incremental improvements on execution. Any%, however, has clear room for improvement which I detail in this document. The No Alerts category (also allowing teleports) is wide open due to low runner engagement.
+The No Major Glitches (NMG category), also called No Teleports, is pretty optimized. Of course there's always potential for new route discoveries or incremental improvements on execution, but many very skilled and clever players have put significant time into it. Any%, however, has clear room for improvement which I detail in this document. I am the only Any% runner, and there are certainly others who'd be able to beat my execution and find tricks and routes that I haven't.
 
-Teleports are the only known major glitch for the game and thus the only difference between Any% and NMG. There are levels where teleports don't save any additional time compared to the NMG, so the same run can take WR for both categories.
+Teleports are the only known major glitch for the game and thus the only difference between Any% and NMG. There are levels where teleports don't save any additional time compared to the NMG, so the same run can take WR for both categories. The No Alerts category (also allowing teleports) is wide open due to low runner engagement.
 
-I am the only Any% runner, and there are certainly others who'd be able to beat my execution. ST is a hard game to run, and there are some routes I have identified that will save time over NMG WRs but I haven't been able to execute, so several Any% WRs are up for grabs to any runners with the patience and skill.
+I've classified the obtainability of WR for each level into the following categories:
+* OBTAINABLE: TP - WR uses teleports and can clearly be optimized.
+* OBTAINABLE: NMG - WR doesn't use teleports and a teleport route saving time over NMG is known to be possible (it just hasn't been executed).
+* OPTIMIZED: TP - WR uses teleports and is solid. Beating it will require exceptional skill or a new discovery.
+* OPTIMIZED: NMG - WR doesn't use teleports and teleports don't save time over the NMG WR as far as I can tell. Beating it will require exceptional skill or a new discovery.
 
 Base Game Levels:
 * [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#osaka-castle)
@@ -34,61 +38,59 @@ DLC Levels:
 # Base Game Levels
 
 ## Osaka Castle
+OPTIMIZED: NMG
+
 Shadow Mode is disabled up until the cutscene where you meet Takuma, which means that teleports are only possible in the final section of the level. I don't see a way for teleports to save time over NMG.
 
+
 ## Nakasendo Road
+OPTIMIZED: TP
+
+This is my record and certainly there are extremely skilled runners who could squeeze out another second or two, but this is a short level and my run doesn't have much in the way of mistakes. I will not beat this time.
 
 
 ## Imai Town
-Mugen gets unlocked once Yuki touches the ground inside his courtyard. If Yuki teleports to the hook near him she'll trigger the cutscene and start the next section already on the roof.
+OBTAINABLE
 
-Yuki and Mugen regrouping inside the compound and watching the subsequent cutscene is not necessary to complete the level.
-
-You can steal the official's documents from the roof, and any roof works as long as the official is close enough, whether it be on his normal path or if he's lured in.
+A small optimization can be made to the current WR route by teleporting Yuki to the main road near the South Gate to whistle the 2 guards walking up and down the road. This allows Mugen to skip luring them with footsteps and killing them.
 
 
 ## Mount Tsuru
-The first area's guards will always start in the same place unless you play almost the entire intro cutscene.
+OPTIMIZED: NMG
 
-It's possible to take out the samurai guarding Takuma only using Aiko, but you can't progress the mission until you bring Mugen to Takuma.
+Teleports can theoretically save around 3 seconds over NMG if the runner can match the execution of the NMG WR.
+
+Aiko can takedown Takuma's samurai by herself, but even so you can't unlock Takuma unless Mugen gets to him. Since Aiko can tp and Mugen can't, the bottleneck of this run is to get Mugen to Takuma as fast as possible. Ideally, you want Aiko to teleport ahead to clear Mugen's path. The one way to do this that I can see is to teleport Aiko to the bell and take out the two guards in front of the tunnel which skips Mugen having to use a sword wind. Aiko can achieve this by dropping the bell guard on one of the two tunnel guards then jumping down to stab the other.
+
+I don't know how lining up the routes of the guards in the final section will go. If it's a bad line up, one idea is to then go ring the bell with Aiko and use the bell cutscene to move guards around.
 
 
 ## Lord Yabu's Estate
-In Lord Yabu's Estate, Yabu won't come out of his room unless the courtyard gong rings. If you wait long enough, a civilian will ring the gong but it's a 2-to-3 minute-long cycle. You can also ring it yourself by CTRL clicking it or using Hayato's rock.
+OPTIMIZED: TP
 
-Yabu will also appear if you let the intro cutscene play out until he appears (or at least up to shortly beforehand). If you skip the cutscene before this, he won't appear at the same point in time.
-
-If he's outside and there's an alert, he'll run back to his room.
-
-There are many ways to kill Yabu. Pistols and shuriken won't work, but you can:
-* stab him
-* poison his tea
-* snipe him from the island tower or from inside the compound
-* grenade him
-
-You can perform the door grenade glitch through Yabu's door. The positioning for this is pretty lenient, clicking pretty much anywhere on the stairs in front of the door Yabu emerges from seems to work.
-
-Yabu's normal route takes him through the center of the courtyard, out of reach from any jump stabs. However, if he hears his dog barking he'll change his path to walk right by a building, in range of a jump stab.
-
-If you knock out Yabu without anyone seeing you (e.g. with a well-planned jump knock out), his bodyguards will simply continue on their way without him.
+Probably even harder to beat than Nakasendo. Despite being the nearly same overall time length, this run only requires 5 seconds of critical execution: from starting the level until throwing the rock at the dog. The rest is basically on a timer that runners of most skill levels could achieve with some practice.
 
 
 ## Hida Village
-This level strangely has several locations where you can perform a jump stab from the ground, which can be used for teleports.
+OBTAINABLE: TP
 
-When eavesdropping on Okkoto, sitting in a certain area in the corner of the buildings in front of Okkoto will cause him to bug out and do a little dance, and the eavesdrop bar will stay empty resulting in a soft lock.
-
-If you're teleporting to the door next to him and want to avoid this, make sure to hug the doorframe right outside the edge of his full vision and you should be okay.
+Definitely a couple of seconds of execution-based time save here.
 
 
 ## Suganuma Village
-Kuma starts out deployed, so recall him at the start of the run if you plan to use him. This will save a lot of time compared to Kuma running across the map.
+OBTAINABLE: NMG
 
-If the samurai guarding Mugen is lured away, he will come running back as soon as you release Mugen.
-
-Recovering Mugen's gear is not necessary to complete the level.
-
-The group of guards at the level exit will appear once one of your characters enters a certain area of the map after the villagers have been freed, most notably once they walk down the main ramp from the top level (where the villagers start) to the second level. There are also trigger zones around the ladders on the right side of the map, and also on the left side of the map meaning that all paths are covered (except for teleports). The exit guards spawn clustered in a ball, which is convenient if you've got Takuma waiting there with a grenade.
+Route idea: 
+* Takuma snipes for alert that clears the level above them (same as WR) and runs toward the tower by the road
+* Yuki teleports to a roof north of Mugen and jump stabs the guard on the high ground while in sight of the tower guard, causing an alert clearing Mugen's area
+* Takuma snipes the tower guard, climbs the tower, gets bullets, sets Kuma for guards by the ramp near the exit
+* Yuki teleports to Mugen to free him 
+* Yuki runs to ledge below her to teleport to villagers and rescues them (same as WR, this strat is really hard)
+* Mugen runs to grab a rock to crush the guards distracted by kuma
+* Takuma shoots the samurai by the road to let Mugen by
+* Takuma shoots for an alert to help the villagers escape (same as WR)
+* Takuma runs to the exit and grenades the exit guards that appear
+* Everyone escapes
 
 
 ## Kanazawa City
