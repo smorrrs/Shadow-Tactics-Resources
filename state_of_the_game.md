@@ -5,7 +5,7 @@ The No Major Glitches (NMG) category, also called No Teleports, is pretty optimi
 
 I've classified the obtainability of WR for each level into the following categories:
 * OBTAINABLE: REFINE - WR uses teleports and can clearly be optimized.
-* OBTAINABLE: ADD TP - WR doesn't use teleports and a teleport route saving time over NMG is known to be possible (it just hasn't been executed).
+* OBTAINABLE: ADD TP - WR doesn't use teleports and a teleport route saving time over NMG is thought to be possible (it just hasn't been executed).
 * OPTIMIZED: TP - WR uses teleports and is solid. Beating it will require exceptional skill or a new discovery.
 * OPTIMIZED: NO TP - WR doesn't use teleports and teleports don't save time over the NMG WR as far as I can tell. Beating it will require exceptional skill or a new discovery.
 
@@ -50,7 +50,7 @@ Certainly there are extremely skilled runners who could squeeze out another seco
 ## Imai Town
 OBTAINABLE: REFINE
 
-A small optimization can be made to the current WR route by teleporting Yuki to the main road near the South Gate to whistle the 2 guards walking up and down the road. This allows Mugen to skip luring them with footsteps and killing them.
+A small optimization can be made to the current WR route by teleporting Yuki to the main road near the South Gate to whistle the 2 guards walking up and down the road. This allows Mugen to skip luring them with footsteps and killing them with a sword wind.
 
 
 ## Mount Tsuru
