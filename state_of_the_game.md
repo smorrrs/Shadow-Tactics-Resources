@@ -4,10 +4,10 @@ Information on where potential time save can be had over WRs at the time of writ
 The No Major Glitches (NMG category), also called No Teleports, is pretty optimized. Of course there's always potential for new route discoveries or incremental improvements on execution, but many very skilled and clever players have put significant time into it. Any%, however, has clear room for improvement which I detail in this document. I am the only Any% runner, and there are certainly others who'd be able to beat my execution and find tricks and routes that I haven't. The No Alerts category (also allowing teleports) is wide open due to low runner engagement.
 
 I've classified the obtainability of WR for each level into the following categories:
-* OBTAINABLE: TP - WR uses teleports and can clearly be optimized.
-* OBTAINABLE: NMG - WR doesn't use teleports and a teleport route saving time over NMG is known to be possible (it just hasn't been executed).
+* OBTAINABLE: REFINE - WR uses teleports and can clearly be optimized.
+* OBTAINABLE: ADD TP - WR doesn't use teleports and a teleport route saving time over NMG is known to be possible (it just hasn't been executed).
 * OPTIMIZED: TP - WR uses teleports and is solid. Beating it will require exceptional skill or a new discovery.
-* OPTIMIZED: NMG - WR doesn't use teleports and teleports don't save time over the NMG WR as far as I can tell. Beating it will require exceptional skill or a new discovery.
+* OPTIMIZED: NO TP - WR doesn't use teleports and teleports don't save time over the NMG WR as far as I can tell. Beating it will require exceptional skill or a new discovery.
 
 Base Game Levels:
 * [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#osaka-castle)
@@ -36,7 +36,7 @@ DLC Levels:
 # Base Game Levels
 
 ## Osaka Castle
-OPTIMIZED: NMG
+OPTIMIZED: NO TP
 
 Shadow Mode is disabled up until the cutscene where you meet Takuma, which means that teleports are only possible in the final section of the level. I don't see a way for teleports to save time over NMG.
 
@@ -48,13 +48,13 @@ This is my record and certainly there are extremely skilled runners who could sq
 
 
 ## Imai Town
-OBTAINABLE
+OBTAINABLE: REFINE
 
 A small optimization can be made to the current WR route by teleporting Yuki to the main road near the South Gate to whistle the 2 guards walking up and down the road. This allows Mugen to skip luring them with footsteps and killing them.
 
 
 ## Mount Tsuru
-OPTIMIZED: NMG
+OPTIMIZED: NO TP
 
 Teleports can theoretically save around 3 seconds over NMG if the runner can match the execution of the NMG WR.
 
@@ -70,13 +70,13 @@ Probably even harder to beat than Nakasendo. Despite being the nearly same overa
 
 
 ## Hida Village
-OBTAINABLE: TP
+OBTAINABLE: REFINE
 
 Definitely a couple of seconds of execution-based time save here.
 
 
 ## Suganuma Village
-OBTAINABLE: NMG
+OBTAINABLE: ADD TP
 
 Route idea: 
 * Takuma snipes for alert that clears the level above them (same as WR) and runs toward the tower by the road
@@ -92,7 +92,7 @@ Route idea:
 
 
 ## Kanazawa City
-OPTIMIZED: NMG
+OPTIMIZED: NO TP
 
 This route is bottlenecked by Mugen getting to the barrel, carrying the barrel to the depot, then getting to the meetup point. The NMG already has him pretty much running straight there, but he does have some hold ups so perhaps speeding him along could be possible. I experimented with Hayato/Yuki teleporting to kill the officer and/or cause alerts but I didn't make any useful finds.
 
@@ -106,20 +106,20 @@ Aiko can quick climb the ladder and thus get to fake Kage faster than Hayato, bu
 
 
 ## Mount Tsuru (Prison)
-OBTAINABLE: NMG
+OBTAINABLE: ADD TP
 
 Teleports can save 30+ seconds in the first section alone, but going a similar speed as WR in the rest of the level is really hard, even using relatively "safe" strats. 
 
 
 
 ## Matsuyama City
-OBTAINABLE: TP
+OBTAINABLE: REFINE
 
 Room for improvement. Hayato can probably help Aiko clear out the exit before you cause the alert to isolate Masaru.
 
 
 ## Myougi Pass
-OPTIMIZED: NMG
+OPTIMIZED: NO TP
 
 There aren't many places to teleport from and to that are near where you need to be. You're bottlenecked by Takuma and Masaru, and I don't see any way for Yuki/Aiko teleports to help clear the path faster than is already done.
 
@@ -133,31 +133,31 @@ I can get 5 second time consistently, so 4 seconds is probably possible with god
 # DLC Levels - Aiko's Choice
 
 ## Nagoya City
-OBTAINABLE: NMG
+OBTAINABLE: ADD TP
 
 Even though you're bottlenecked by Mugen, teleports can surely save time. It's just a really long level which makes it difficult to pull off, and saving Yuki quickly is tough.
 
 
 ## Ise Bay
-OPTIMIZED: NMG
+OPTIMIZED: NO TP
 
 Teleports are not possible in this level.
 
 
 ## Toba Coastline
-OBTAINABLE: TP
+OBTAINABLE: REFINE
 
 There are possbile optimization in both execution and route. Hydewx made some optimizations to NMG since the Any% run was done, primarily to Takuma's escape.
 
 
 ## Matsuyama City 2
-OPTIMIZED: NMG
+OPTIMIZED: NO TP
 
 Aiko's nearest teleport is way out of the way, definitely no way that it's helpful.
 
 
 ## Hana Gakuen
-OBTAINABLE: TP
+OBTAINABLE: REFINE
 
 Execution can be crisped up.
 
