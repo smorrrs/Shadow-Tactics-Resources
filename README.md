@@ -4,7 +4,7 @@ Resources for speedrunning Shadow Tactics: Blades of the Shogun
 ## Guides
 
 **General Tech Guide**
-* Coming soon
+* https://youtu.be/CpzNZePhD3A
 
 **Level-Specific Info**
 * https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md
