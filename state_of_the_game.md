@@ -44,7 +44,7 @@ Shadow Mode is disabled up until the cutscene where you meet Takuma, which means
 ## Nakasendo Road
 OPTIMIZED: TP
 
-Certainly there are extremely skilled runners who could squeeze out another second or two, but this is a short level and my run doesn't have much in the way of mistakes.
+Certainly there are extremely skilled runners who could squeeze out another second or two, but this is a short level and my run doesn't have much in the way of mistakes. I won't be beating it without a new discovery.
 
 
 ## Imai Town
