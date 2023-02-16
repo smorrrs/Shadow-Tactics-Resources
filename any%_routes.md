@@ -25,8 +25,8 @@ DLC Levels:
 * [Epilogue](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#epilogue)
 
 # Acronyms
-NMG = No Major Glitches / No Teleports category
-TP = teleport
+* NMG = No Major Glitches / No Teleports category
+* TP = teleport
 
 
 # Base Game Levels
@@ -49,6 +49,25 @@ See NMG
 
 
 ## Imai Town
+* Run to first hook avoiding detection
+* TP to hook near Mugen to trigger cutscene and start the next section on the roof.
+* Mugen: click right side of building to get Mugen running up.
+* TP Yuki to North Gate and hide in left bush.
+* Mugen does a KO Carry on the first guard.
+* Yuki steals key and uses an Animation Crouch to avoid detection then runs to the roof hook.
+* Mugen throws the body in front of samurai, then hides in a bush as the samurai alerts.
+* Yuki moves along roof toward official.
+* Mugen moves to the bottom-left corner of the bush then runs toward the bottom gate after the second guard passes.
+* Mugen issues a sword wind on the guards by the wagon.
+* Yuki gets into position to steal the documents and schedules a jump for a TP.
+* After sword wind, Mugen moves to the corner of the road buildings, crouching through view cones.
+* Yuki steals document.
+* Road guards see Mugen's footprints and he sword winds them as they round the corner.
+* Mugen runs in front of cart civilian to get seen while on the road then hides in the bush ahead.
+* Yuki TPs to unlock South Gate.
+* Mugen sneaks to bottom door after guards run by, comes out the top door, then dodges view cones to get to gate.
+* Y & M move to next door avoiding alerts until the last moment.
+* Y & M bum rush to the cart.
 
 
 ## Mount Tsuru
