@@ -94,7 +94,7 @@ Route idea:
 ## Kanazawa City
 OPTIMIZED: NO TP
 
-This route is bottlenecked by Mugen getting to the barrel, carrying the barrel to the depot, then getting to the meetup point. The NMG already has him pretty much running straight there, but he does have some hold ups so perhaps speeding him along could be possible. I experimented with Hayato/Yuki teleporting to kill the officer and/or cause alerts but I didn't make any useful finds.
+This level is bottlenecked by Mugen getting to the barrel, carrying the barrel to the depot, then getting to the meetup point. The NMG WR already has him pretty much running straight there, but he does have some hold ups so perhaps speeding him along could be possible. I experimented with Hayato/Yuki teleporting to kill the officer and/or cause alerts but I didn't make any useful finds.
 
 
 ## Kage-sama's Camp
