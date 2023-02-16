@@ -32,7 +32,7 @@ DLC Levels:
 ## Osaka Castle
 Shadow Mode is disabled up until the cutscene where you meet Takuma, which means that the teleport glitch is only possible in the final section of the level. It's possible to *not* unlock shadow mode at that point, but I don't exactly how.
 
-Mugen's first cutscene will trigger if the guards are distracted in any way, so using a rock works. If you hold shift to skip the cutscene, you'll have to watch Mugen do his attack animation, but if you double click to skip it fast enough he won't begin his animation and he can start running immediately.
+Mugen's first cutscene will trigger if the guards are distracted in any way, so using a rock works. If you hold SPACE to skip the cutscene, you'll have to watch Mugen do his attack animation, but if you double click to skip it fast enough he won't begin his animation and he can start running immediately.
 
 Activating the cannon will kill the three guards in front of it if they're still standing there. The cannon cutscene will warp Hayato up to Mugen. Make sure to gather the shuriken if you've used it and plan to use it again before the cutscene starts so you don't have to run back for it.
 
