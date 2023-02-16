@@ -147,7 +147,7 @@ Teleports are not possible in this level.
 ## Toba Coastline
 OBTAINABLE: REFINE
 
-There are possbile optimization in both execution and route. Hydewx made some optimizations to NMG since the Any% run was done, primarily to Takuma's escape.
+There are possible optimizations in both execution and route. Hydewx made some optimizations to NMG since the Any% run was done, primarily to Takuma's escape.
 
 
 ## Matsuyama City 2
