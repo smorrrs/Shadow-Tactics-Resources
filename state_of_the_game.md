@@ -12,24 +12,24 @@ I've classified the obtainability of WR for each level into the following catego
 Base Game Levels:
 * [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#osaka-castle)
 * [Nakasendo Road](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#nakasendo-road)
-* [Imai Town](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#imai-town)
+* [Imai Town](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#imai-town) - OBTAINABLE
 * [Mount Tsuru](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#mount-tsuru)
 * [Lord Yabu's Estate](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#lord-yabus-estate)
-* [Hida Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#hida-village)
-* [Suganuma Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#suganuma-village)
+* [Hida Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#hida-village) - OBTAINABLE
+* [Suganuma Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#suganuma-village) - OBTAINABLE
 * [Kanazawa City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#kanazawa-city)
 * [Kage-sama's Camp](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#kage-samas-camp)
-* [Mount Tsuru (Prison)](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#mount-tsuru-prison)
-* [Matsuyama City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#matsuyama-city)
+* [Mount Tsuru (Prison)](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#mount-tsuru-prison) - OBTAINABLE
+* [Matsuyama City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#matsuyama-city) - OBTAINABLE
 * [Myougi Pass](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#myougi-pass)
 * [Sunpu Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#sunpu-castle)
 
 DLC Levels:
-* [Nagoya City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#nagoya-city)
+* [Nagoya City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#nagoya-city) - OBTAINABLE
 * [Ise Bay](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#ise-bay)
-* [Toba Coastline](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#toba-coastline)
+* [Toba Coastline](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#toba-coastline) - OBTAINABLE
 * [Matsuyama City 2](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#matsuyama-city-2)
-* [Hana Gakuen](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#hana-gakuen)
+* [Hana Gakuen](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#hana-gakuen) - OBTAINABLE
 * [Epilogue](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#epilogue)
 
 
