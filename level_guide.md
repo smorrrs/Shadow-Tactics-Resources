@@ -62,7 +62,7 @@ It's possible to take out the samurai guarding Takuma only using Aiko, but you c
 
 
 ## Lord Yabu's Estate
-In Lord Yabu's Estate, Yabu won't come out of his room unless the courtyard gong rings. If you wait long enough, a civilian will ring the gong but it's a 2-to-3 minute-long cycle. You can also ring it yourself by CTRL clicking it or using Hayato's rock.
+In Lord Yabu's Estate, Yabu won't come out of his room unless the courtyard gong rings. If you wait long enough, a civilian will ring the gong but it's a 2-3 minute-long cycle. You can also ring it yourself by CTRL clicking it or using Hayato's rock.
 
 Yabu will also appear if you let the intro cutscene play out until he appears (or at least up to shortly beforehand). If you skip the cutscene before this, he won't appear at the same point in time.
 
