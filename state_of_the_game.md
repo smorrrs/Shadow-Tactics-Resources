@@ -1,9 +1,7 @@
 # State of the Game - Any%
 Information on where potential time save can be had over WRs in the Any% category at the time of writing. 
 
-The No Major Glitches (NMG category), also called No Teleports, is pretty optimized. Of course there's always potential for new route discoveries or incremental improvements on execution, but many very skilled and clever players have put significant time into it. Any%, however, has clear room for improvement which I detail in this document. I am the only Any% runner, and there are certainly others who'd be able to beat my execution and find tricks and routes that I haven't.
-
-Teleports are the only known major glitch for the game and thus the only difference between Any% and NMG. There are levels where teleports don't save any additional time compared to the NMG, so the same run can take WR for both categories. The No Alerts category (also allowing teleports) is wide open due to low runner engagement.
+The No Major Glitches (NMG category), also called No Teleports, is pretty optimized. Of course there's always potential for new route discoveries or incremental improvements on execution, but many very skilled and clever players have put significant time into it. Any%, however, has clear room for improvement which I detail in this document. I am the only Any% runner, and there are certainly others who'd be able to beat my execution and find tricks and routes that I haven't. The No Alerts category (also allowing teleports) is wide open due to low runner engagement.
 
 I've classified the obtainability of WR for each level into the following categories:
 * OBTAINABLE: TP - WR uses teleports and can clearly be optimized.
@@ -94,78 +92,77 @@ Route idea:
 
 
 ## Kanazawa City
-Killing the officers and rescuing the prisoners are optional.
+OPTIMIZED: NMG
 
-Killing an officer triggers allied forces to kill all enemies within an area around them. Enemies that you lure into this area will also be killed.
-
-You can throw a grenade through the castle's front gate if you click to the side of the watchtower in the main courtyard.
-
-Only the large barrel in the castle courtyard can blow up the depot, the small ones near Okkoto's tent don't affect it.
-
-Okkoto has the same properties as a samurai, so anything that takes them down will take him down, including Mugen's pistol or an explosive barrel placed at his spawn location before he appears.
+This route is bottlenecked by Mugen getting to the barrel, carrying the barrel to the depot, then getting to the meetup point. The NMG already has him pretty much running straight there, but he does have some hold ups so perhaps speeding him along could be possible. I experimented with Hayato/Yuki teleporting to kill the officer and/or cause alerts but I didn't make any useful finds.
 
 
 ## Kage-sama's Camp
-You end the level by carrying imposter Kage's body away from his mat. However, the direction you carry him affects how far you have to go before the cutscene triggers. Carrying him to the left is slightly faster than taking him right. Carrying him down is really slow, and carrying him up doesn't trigger the cutscene at all.
+OPTIMIZED: TP
+
+One route that's about the same time as WR is Hayato climbing up the tower and jumping over the fence instead of crouching through the gate, so optimizing this could potentially be faster. Hayato can't quick climb the ladder though because he has a path to walk to where he's teleporting from.
+
+Aiko can quick climb the ladder and thus get to fake Kage faster than Hayato, but her pistol kill is slower and louder than Hayato's shuriken and using her requires even more camera movement.
 
 
 ## Mount Tsuru (Prison)
-You can escape Hayato without Takuma shooting the ice if you hit the guard with a rock to make him open the cell door. 
+OBTAINABLE: NMG
 
-This can one of the tougher levels since you don't have weapons, but you can permanantly deal with enemies by throwing them off the numerous cliffs to make things a little easier.
-
-If you lure away Aiko's guards, they will rush back to her as soon as you release her.
-
-Mugen's cutscene is unskippable, but you can make the dialogue go faster by spamming click and ENTER. Once the screen widens, Mugen will wait for a player input before performing seppuku, otherwise he'll just sit there for ages.
+Teleports can save 30+ seconds in the first section alone, but going a similar speed as WR in the rest of the level is really hard, even using relatively "safe" strats. 
 
 
 
 ## Matsuyama City
-If you cause an alert in Masaru's compound, Masaru will run into its main building then exit out the back door without his bodyguards.
+OBTAINABLE: TP
+
+Room for improvement. Hayato can probably help Aiko clear out the exit before you cause the alert to isolate Masaru.
 
 
 ## Myougi Pass
-The drugged alcohol only works if the servant brings it to the guards, so taking out the servant prohibits that strategy.
+OPTIMIZED: NMG
+
+There aren't many places to teleport from and to that are near where you need to be. You're bottlenecked by Takuma and Masaru, and I don't see any way for Yuki/Aiko teleports to help clear the path faster than is already done.
 
 
 ## Sunpu Castle
-Noboru is immune to cutscene progression, he will always start in the courtyard regardless of where you skip the cutscene.
+OPTIMIZED: TP
 
-If you use Aiko's powder to blind the firing range guard named Itto Mogami Wagner as Noboru is watching them fire their guns, he will turn and shoot Noboru.
-
-Set the audio language to Japanese. English audio adds an additional 10 second wait time after Noboru dies before the final cutscene starts.
-
+I can get 5 second time consistently, so 4 seconds is probably possible with god-like execution, particularly on the minimap click to move your screen to Noboru's courtyard. You'll have to make the click like lightning while still being extremely precise.
 
 
 # DLC Levels - Aiko's Choice
 
 ## Nagoya City
-Nothing particularly noteworthy.
+OBTAINABLE: NMG
+
+Even though you're bottlenecked by Mugen, teleports can surely save time. It's just a really long level which makes it difficult to pull off, and saving Yuki quickly is tough.
 
 
 ## Ise Bay
-The sleeping guard by Takuma's cage won't wake up if Takuma runs by him or even if kuma howls. He'll only wake up if you touch him.
+OPTIMIZED: NMG
+
+Teleports are not possible in this level.
 
 
 ## Toba Coastline
-The level ends when (1) all 5 crates are destroyed, and (2) Takuma is in the lifeboat. Your other characters' locations don't matter.
+OBTAINABLE: TP
+
+There are possbile optimization in both execution and route. Hydewx made some optimizations to NMG since the Any% run was done, primarily to Takuma's escape.
 
 
 ## Matsuyama City 2
-Either character can pick up the document from the samurai when he's killed or knocked out.
+OPTIMIZED: NMG
+
+Aiko's nearest teleport is way out of the way, definitely no way that it's helpful.
 
 
 ## Hana Gakuen
-Letting the first mid-level cutscene (passing through the statue puzzle door) play out some will move your characters' starting position compared to skipping the cutscene immediately, giving you a bit of free distance traveled in IGT.
+OBTAINABLE: TP
 
-Teleporting to the complex entrance's floor spike trap's switch while holding CTRL to activate it can teleport you into the activating spikes, insta-killing yourself. To avoid this, teleport without holding CTRL, or you can also adjust the camera angle to a position where this doesn't happen.
-
-Chiyo doesn't have any special defenses, anything that kills a normal enemy will take her out.
-
-It's possible to snipe Chiyo with Takuma from the riverbank near the exit.
+Execution can be crisped up.
 
 
 ## Epilogue
-Using English audio saves around 40 seconds compared to Japanese audio for the Any% run of this level.
+OPTIMIZED: TP
 
-After talking to Hayato, you can see and teleport to the bowl at the hill-top shrine even before that part of the map is revealed with the correct camera positioning. This skips walking distance and some of Hayato's dialogue.
+Most of the level is on a timer waiting for dialogue to finish before the next dialogue can begin. The only way to really save time would be finding some dialogue skips.
