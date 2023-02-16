@@ -6,7 +6,7 @@ A character can teleport to an interactable by clicking the interactable immedia
 ## Quick Climb
 A character can teleport up or down a ladder or vine by issuing a jump command while climbing. The timing going top-to-bottom is extremely precise, while going bottom-to-top is very flexible.
 
-## Grenade Glitch / Door Glitch
+## Grenade Glitch / Door Grenade Glitch
 Takuma can throw grenades through doors connecting two areas by standing by the edge of the door and throwing a grenade to a somewhat particular location on the other side.
 
 ## IGT Cut
