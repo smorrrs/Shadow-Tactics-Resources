@@ -168,7 +168,7 @@ Teleporting to the complex entrance's floor spike trap's switch while holding CT
 
 Chiyo doesn't have any special defenses, anything that kills a normal enemy will take her out.
 
-It's possible to snipe Chiyo with Takuma from the riverbank near the exit.
+It's possible to snipe Chiyo with Takuma from a specific spot on the riverbank near the exit while she is approaching her shrine.
 
 
 ## Epilogue
