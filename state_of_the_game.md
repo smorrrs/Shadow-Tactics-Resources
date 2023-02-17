@@ -3,7 +3,7 @@ Information on potential time save over current WRs at the time of writing.
 
 The No Major Glitches (NMG) category, also called No Teleports, is pretty optimized. Of course there's always potential for new route discoveries or incremental improvements on execution, but many very skilled and clever players have put significant time into it. Any%, however, has clear room for improvement which I detail in this document. The No Alerts category (also allowing teleports) is wide open due to low runner engagement.
 
-I've classified the obtainability of WR for each level into the following categories:
+I've classified the obtainability of WR for each level into the following categories, which are based on my skill/dedication level. What's optimized for me may be obtainable for others.
 * OBTAINABLE: REFINE - WR uses teleports and can clearly be optimized.
 * OBTAINABLE: ADD TP - WR doesn't use teleports and a teleport route saving time over NMG is thought to be possible (it just hasn't been executed).
 * OPTIMIZED: TP - WR uses teleports and is solid. Beating it will require exceptional skill or a new discovery.
