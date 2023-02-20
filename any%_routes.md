@@ -97,6 +97,40 @@ See NMG WR.
 
 
 ## Hida Village
+Part I
+* Skip cutscene once Hayato starts talking. This lines up the samurai to be in the best position for eavesdropping
+* All: crouch walk down-right (going straight right will keep a guard in earshot of aiko's pistol)
+* Hayato: rock the guards around the campfire, then move down-right
+* Aiko: shoot left guard
+* All: run right
+* Aiko: shoot next guard
+* All: run to dead guard to extinguish his torch
+* Run upward to precise spot out of earshot of samurai and the guard to the left
+* Hayato + Yuki: schedule shots on dock guards while running
+* Aiko run to spot on ground where you can perform a jump stab on the left guard
+* Execute shadow mode to kill dock guards
+* Aiko schedules jump stab and TP to ladder near the cows. Make sure straw hat to the right's head is facing away during TP.
+* Hayato TP to central building's hook and move to top left corner
+* Schedule Yuki jump
+* Move Aiko along roof to maximize eavesdrop
+* Move Hayato along roof to maximize eavesdrop
+* TP Yuki to Aiko's ladder while straw hat is looking away
+* Hayato: schedule jump 
+* Aiko: move to meetup point above ladder
+* Once eavesdrop finished, TP Hayato to ladder (may not matter is straw hat sees since the cutscene should nullify an alarm)
+
+Part II
+* Skip cutscene immediately
+* Hayato: TP to Okkoto's door
+* Exit door and hug the right door frame. In other positions you may get seen or cause Okkoto to enter a glitched state, soft-locking the level.
+* Aiko + Yuki: TP to shack near the dock and move to the exit point.
+
+Part III
+* Skip cutscene when Okkoto's bodyguard starts talking. This moves the samurai on the level below out of the way.
+* Hayato: rock Okkoto and friends
+* Jump down to lower level (finicky)
+* Jump into water
+* Swim to exit point
 
 
 ## Suganuma Village
