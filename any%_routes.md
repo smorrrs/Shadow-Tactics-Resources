@@ -86,7 +86,19 @@ See NMG
 
 
 ## Kage-sama's Camp
-
+* Prep mouse position to move Hayato to nearest ledge
+* Skip cutscene when it begins to pan away from fake Kage
+* Move Hayato to ledge and schedule jump
+* Click minimap to Kage's camp
+* Takuma: shoot guard after he passes the fire to cause an alarm
+* Hayato: TP to ladder left of fake Kage
+* Climb cancel and move to Kage, crouching to avoid view cone
+* Takuma: Shoot tower guard to avoid him spotting Hayato
+* Hayato run toward Kage after leaving view cone
+* Shuriken Kage
+* Pick up Kage
+* Carry Kage to the left (other directions take longer)
+* 
 
 ## Mount Tsuru (Prison)
 
@@ -100,7 +112,7 @@ See NMG
 
 ## Sunpu Castle
 * Ensure audio is set to Japanese (English audio adds time between Noboru dying and the end cutscene starting)
-* Prepare mouse click on the loading screen to move Hayato to the nearby ledge 
+* Prepare mouse position on the loading screen to move Hayato to the nearby ledge 
 * Skip cutscene whenever
 * Move Hayato to ledge and schedule a jump
 * Click minimap to move camera to Noboru
