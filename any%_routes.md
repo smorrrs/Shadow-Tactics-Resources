@@ -99,7 +99,14 @@ See NMG
 
 
 ## Sunpu Castle
-
+* Ensure audio is set to Japanese (English audio adds time between Noboru dying and the end cutscene starting)
+* Prepare mouse click on the loading screen to move Hayato to the nearby ledge 
+* Skip cutscene whenever
+* Move Hayato to ledge and schedule a jump
+* Click minimap to move camera to Noboru
+* TP Hayato to ladder near Noboru
+* Pistol shoot Noboru 
+* Shuriken the straw hat to avoid alarm 
 
 
 # DLC Levels - Aiko's Choice
