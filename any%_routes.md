@@ -2,27 +2,27 @@
 Route descriptions for my Any% WR runs at time of writing. No descriptions provided for levels where a No Major Glitches route is also the WR time for Any%.
 
 Base Game Levels:
-* [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#osaka-castle)
-* [Nakasendo Road](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#nakasendo-road)
-* [Imai Town](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#imai-town)
-* [Mount Tsuru](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#mount-tsuru)
-* [Lord Yabu's Estate](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#lord-yabus-estate)
-* [Hida Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#hida-village)
-* [Suganuma Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#suganuma-village)
-* [Kanazawa City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#kanazawa-city)
-* [Kage-sama's Camp](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#kage-samas-camp)
-* [Mount Tsuru (Prison)](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#mount-tsuru-prison)
-* [Matsuyama City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#matsuyama-city)
-* [Myougi Pass](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#myougi-pass)
-* [Sunpu Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#sunpu-castle)
+* [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#osaka-castle)
+* [Nakasendo Road](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#nakasendo-road)
+* [Imai Town](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#imai-town)
+* [Mount Tsuru](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#mount-tsuru)
+* [Lord Yabu's Estate](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#lord-yabus-estate)
+* [Hida Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#hida-village)
+* [Suganuma Village](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#suganuma-village)
+* [Kanazawa City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#kanazawa-city)
+* [Kage-sama's Camp](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#kage-samas-camp)
+* [Mount Tsuru (Prison)](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#mount-tsuru-prison)
+* [Matsuyama City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#matsuyama-city)
+* [Myougi Pass](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#myougi-pass)
+* [Sunpu Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#sunpu-castle)
 
 DLC Levels:
-* [Nagoya City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#nagoya-city)
-* [Ise Bay](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#ise-bay)
-* [Toba Coastline](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#toba-coastline)
-* [Matsuyama City 2](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#matsuyama-city-2)
-* [Hana Gakuen](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#hana-gakuen)
-* [Epilogue](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#epilogue)
+* [Nagoya City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#nagoya-city)
+* [Ise Bay](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#ise-bay)
+* [Toba Coastline](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#toba-coastline)
+* [Matsuyama City 2](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#matsuyama-city-2)
+* [Hana Gakuen](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#hana-gakuen)
+* [Epilogue](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%25_routes.md#epilogue)
 
 # Acronyms
 * NMG = No Major Glitches / No Teleports category
