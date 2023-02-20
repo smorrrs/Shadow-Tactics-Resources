@@ -98,7 +98,7 @@ See NMG
 * Shuriken Kage
 * Pick up Kage
 * Carry Kage to the left (other directions take longer)
-* 
+
 
 ## Mount Tsuru (Prison)
 
