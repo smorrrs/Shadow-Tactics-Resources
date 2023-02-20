@@ -1,5 +1,5 @@
 # Any% Routes
-Route descriptions for my Any% WR runs at time of writing. 
+Route descriptions for my Any% WR runs at time of writing. No descriptions provided for levels where a No Major Glitches route is also the WR time for Any%.
 
 Base Game Levels:
 * [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/any%_routes.md#osaka-castle)
@@ -32,9 +32,10 @@ DLC Levels:
 # Base Game Levels
 
 ## Osaka Castle
-See NMG
+See NMG WR.
 
 ## Nakasendo Road
+* Prep general mouse position to move Hayato left (not precise)
 * Play the intro cutscene until the camera changes direction. This delays being seen by the first guards as you run by for as long as possible, saving health and avoiding view cone slow down.
 * Run past the guards, taking a point of damage.
 * Play Yuki's cutscene until Hayato takes out his sword and bobs his head 5 times. This lines up a double kill for Yuki.
@@ -49,8 +50,11 @@ See NMG
 
 
 ## Imai Town
+* Prep general mouse position to move Yuki toward first hook (not precise)
+* Skip cutscene immediately
 * Run to first hook avoiding detection
 * TP to hook near Mugen to trigger cutscene and start the next section on the roof.
+* Skip cutscene immediately.
 * Mugen: click right side of building to get Mugen running up.
 * TP Yuki to North Gate and hide in left bush.
 * Mugen does a KO Carry on the first guard.
@@ -71,9 +75,25 @@ See NMG
 
 
 ## Mount Tsuru
+See NMG WR.
 
 
 ## Lord Yabu's Estate
+* Prep a general mouse position to move Hayato toward vines (not precise)
+* Skip cutscene when Yabu is walking down the steps in front of his door. This gets Yabu as close as possible to the dog when it starts barking.
+* Hayato: climb vines
+* Schedule jump
+* TP to pot on balcony above the gong.
+* Throw rock at dog to change Yabu's path
+* Crouch to avoid detection
+* Drop pot on guard
+* Jump down to dead guard's level
+* Move to the corner nearest Yabu
+* Schedule jump right at the hook nearby
+* Wait then jumpstab Yabu as soon as he's within reach 
+* Run to hook
+* TP to vines by level exit
+* Wait for level to end (there's a timer after Yabu dies before exit meetup point appears)
 
 
 ## Hida Village
@@ -86,7 +106,7 @@ See NMG
 
 
 ## Kage-sama's Camp
-* Prep mouse position to move Hayato to nearest ledge
+* Prep mouse position to move Hayato to nearest ledge (precise)
 * Skip cutscene when it begins to pan away from fake Kage
 * Move Hayato to ledge and schedule jump
 * Click minimap to Kage's camp
@@ -112,7 +132,7 @@ See NMG
 
 ## Sunpu Castle
 * Ensure audio is set to Japanese (English audio adds time between Noboru dying and the end cutscene starting)
-* Prepare mouse position on the loading screen to move Hayato to the nearby ledge 
+* Prepare mouse position on the loading screen to move Hayato to the nearby ledge (precise)
 * Skip cutscene whenever
 * Move Hayato to ledge and schedule a jump
 * Click minimap to move camera to Noboru
