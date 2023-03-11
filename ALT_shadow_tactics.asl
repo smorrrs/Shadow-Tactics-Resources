@@ -2,7 +2,7 @@ state("Shadow Tactics")
 {
     byte loading : "mono.dll", 0x0020C8E4, 0X10, 0X1BC, 0X10, 0X10, 0X3C, 0X6C;
     int levelCode : "Shadow Tactics.exe", 0x00FB0350, 0x120;
-    byte sunpuComplete : "Shadow Tactics.exe", 0x0100A0A0, 0x58, 0x1A0;
+    bool onStatsScreen : "mono.dll", 0x0020C574, 0X8, 0X8, 0X1BC, 0X28, 0X28, 0X24, 0X60;
 }
 
 init
@@ -104,8 +104,8 @@ split
             return true;
         }
     
-    // End the timer when entering the final cutscene
-    } else if ((vars.previousLevel == vars.SUNPU) & current.sunpuComplete) {
+    // End the timer when entering the final stats screen
+    } else if ((vars.previousLevel == vars.SUNPU) && current.onStatsScreen && (current.loading == 0)) {
         return true;
     }
 }
