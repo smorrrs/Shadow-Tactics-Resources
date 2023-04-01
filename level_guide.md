@@ -36,7 +36,7 @@ Mugen's first cutscene will trigger if the guards are distracted in any way, so 
 
 Activating the cannon will kill the three guards in front of it if they're still standing there. The cannon cutscene will warp Hayato up to Mugen. Make sure to gather the shuriken if you've used it and plan to use it again before the cutscene starts so you don't have to run back for it.
 
-Once Takuma's cutscene is triggered, Hayato and Mugen will be warped to the gate, so you can do the mid-section with just Hayato and leave slow Mugen behind.
+Once Takuma's cutscene is triggered by getting one character to the gate, the other character will be warped to the gate.
 
 You're meant to take the explosive barrel up to the roof of the gate and toss it down from there, but with a precise throw from a precise spot under the hanging wood mechanism you can throw it from the side of the gate and still have Takuma be able to shoot it.
 
@@ -46,19 +46,21 @@ The cutscene where you meet Yuki doesn't reset guard routes, so any time you've 
 
 There's a small time window where you can whistle both officers on the left side of the map to the boulder at the same time. It's possible to crush them both with the boulder, but it requires luck, so you may have to do some cleanup if you can only get one.
 
+Only Hayato can trigger the final meetup. Yuki being there or not is inconsequential.
+
 
 ## Imai Town
 Mugen gets unlocked once Yuki touches the ground inside his courtyard. If Yuki teleports to the hook near him she'll trigger the cutscene and start the next section already on the roof.
 
 Yuki and Mugen regrouping inside the compound and watching the subsequent cutscene is not necessary to complete the level.
 
-You can steal the official's documents from the roof, and any roof works as long as the official is close enough, whether it be on his normal path or if he's lured in.
+Only Yuki can retrieve the document, either by pickpockting the official or picking it off of the ground after he's been knocked out. You can pickpocket the official's documents from the roof, and any roof works as long as the official is close enough, whether it be on his normal path or if he's lured in.
 
 
 ## Mount Tsuru
-The first area's guards will always start in the same place unless you play almost the entire intro cutscene.
+The first area's guards will always start in the same place unless you play almost the entire intro cutscene in which case they'll start in their final standing positions.
 
-It's possible to take out the samurai guarding Takuma only using Aiko, but you can't progress the mission until you bring Mugen to Takuma.
+It's possible to take out the samurai guarding Takuma only using Aiko, but you can't progress the mission until you bring Mugen to Takuma. Mugen rescuing Takuma will warp Aiko there as well.
 
 
 ## Lord Yabu's Estate
@@ -78,7 +80,7 @@ You can perform the door grenade glitch through Yabu's door. The positioning for
 
 Yabu's normal route takes him through the center of the courtyard, out of reach from any jump stabs. However, if he hears his dog barking he'll change his path to walk right by a building, in range of a jump stab.
 
-If you knock out Yabu without anyone seeing you (e.g. with a well-planned jump knock out), his bodyguards will simply continue on their way without him.
+If you knock out Yabu without anyone seeing you (e.g. with a well-planned jump knock out), his bodyguards will simply continue on their way without him. Even if he's killed in complete stealth, his death will trigger the group of red emergency guards to emerge. This won't be counted as an alert in the statistics screen.
 
 
 ## Hida Village
