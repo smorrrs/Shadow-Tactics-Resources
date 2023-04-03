@@ -139,7 +139,11 @@ The drugged alcohol only works if the servant brings it to the guards, so taking
 ## Sunpu Castle
 Noboru is immune to cutscene progression, he will always start in the courtyard regardless of where you skip the cutscene.
 
-If you use Aiko's powder to blind the firing range guard named Itto Mogami Wagner as Noboru is watching them fire their guns, he will turn and shoot Noboru.
+Enemies won't enter the unlockable wells even if they see you enter, so they're safe spots.
+
+If you use Aiko's powder on the guard named Itto Mogami Wagner in the firing line as Noboru is watching them fire their guns, he will turn and shoot Noboru.
+
+Noboru doesn't alert or attack if he sees you.
 
 Set the audio language to Japanese. English audio adds an additional 10 second wait time after Noboru dies before the final cutscene starts.
 
