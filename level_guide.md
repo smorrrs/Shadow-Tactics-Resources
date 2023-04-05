@@ -15,7 +15,7 @@ Base Game Levels:
 * [Kage-sama's Camp](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#kage-samas-camp)
 * [Mount Tsuru (Prison)](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#mount-tsuru-prison)
 * [Matsuyama City](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#matsuyama-city)
-* [Myougi Pass](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#myougi-pass)
+* [Myogi Pass](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#myogi-pass)
 * [Sunpu Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/level_guide.md#sunpu-castle)
 
 DLC Levels:
@@ -132,7 +132,7 @@ Mugen's cutscene is unskippable, but you can make the dialogue go faster by spam
 If you cause an alert in Masaru's compound, Masaru will run into its main building then exit out the back door without his bodyguards.
 
 
-## Myougi Pass
+## Myogi Pass
 The drugged alcohol only works if the servant brings it to the guards, so taking out the servant prohibits that strategy.
 
 
