@@ -145,7 +145,7 @@ Enemies won't enter the unlockable wells even if they see you enter, so they're 
 
 If you use Aiko's powder on the guard named Itto Mogami Wagner in the firing line as Noboru is watching them fire their guns, he will turn and shoot Noboru.
 
-Noboru doesn't alert or attack if he sees you.
+Noboru will die to the same attacks as a normal guard. Noboru doesn't alert or attack if he sees you, he'll just stop and look at you if you teleport to him before using the well.
 
 Set the audio language to Japanese. English audio adds an additional 10 second wait time after Noboru dies before the final cutscene starts.
 
