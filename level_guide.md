@@ -104,7 +104,7 @@ The group of guards at the level exit will appear once one of your characters en
 ## Kanazawa City
 Killing the officers and rescuing the prisoners are optional.
 
-Killing an officer triggers allied forces to kill all enemies within an area around them. Enemies that you lure into this area will also be killed.
+Killing an officer triggers allied forces to kill all enemies within an area around them. Enemies lured into this area will also be killed.
 
 You can throw a grenade through the castle's front gate if you click to the side of the watchtower in the main courtyard.
 
@@ -130,6 +130,8 @@ Mugen's cutscene is unskippable, but you can make the dialogue go faster by spam
 
 ## Matsuyama City
 If you cause an alert in Masaru's compound, Masaru will run into its main building then exit out the back door without his bodyguards.
+
+Two other ways to isolate Masaru are to take out his masseuse or to heat up his bath water.
 
 
 ## Myogi Pass
