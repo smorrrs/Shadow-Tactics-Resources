@@ -10,7 +10,7 @@ I've classified the obtainability of WR for each level into the following catego
 * OPTIMIZED: NO TP - WR doesn't use teleports and teleports don't save time over the NMG WR as far as I can tell. Beating it will require exceptional skill or a new discovery.
 
 Base Game Levels:
-* [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#osaka-castle)
+* [Osaka Castle](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#osaka-castle) - OBTAINABLE
 * [Nakasendo Road](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#nakasendo-road)
 * [Imai Town](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#imai-town) - OBTAINABLE
 * [Mount Tsuru](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/state_of_the_game.md#mount-tsuru)
@@ -36,9 +36,9 @@ DLC Levels:
 # Base Game Levels
 
 ## Osaka Castle
-OPTIMIZED: NO TP
+OBTAINABLE: ADD TP
 
-Shadow Mode is disabled up until the cutscene where you meet Takuma, which means that teleports are only possible in the final section of the level. I don't see a way for teleports to save time over NMG.
+Shadow Mode is disabled up until the cutscene where you meet Takuma OR upon collecting the shadow mode hint shortly beforehand. A teleport can save a couple of seconds from the hint to meeting Takuma.
 
 
 ## Nakasendo Road
