@@ -14,7 +14,6 @@ These are my personal suggestions for challenge rulesets applicable to all level
 * Select 1 character to be unrestricted.
 * Other characters may only perform required actions that the solo character cannot perform (moving to meetup points, Mugen carrying barrels, etc.)
 * Other character may not trigger alerts or suspicion.
-
 * Advanced challenge: Other characters may only move directly to required actions and may only run for their movement.
 
 
