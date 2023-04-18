@@ -18,7 +18,7 @@ These are my personal suggestions for challenge rulesets applicable to all level
 
 
 **Min Skills**
-* Complete a level with the fewest number of skills used appearing on the final stats screen.
+* Minimize skills used (as appear on the final stats screen)
 
 
 **Shadow Run** 
