@@ -9,7 +9,7 @@ I've classified the obtainability of WR for each level into the following catego
 * OPTIMIZED: TP - WR uses teleports and is solid. Beating it will require exceptional skill or a new discovery.
 * OPTIMIZED: NO TP - WR doesn't use teleports and teleports don't save time over the NMG WR as far as I can tell. Beating it will require exceptional skill or a new discovery.
 
-Other potential categories:
+Other potential categories that haven't been run at time of writing:
 * All badges
 * All enemies/civilians killed
 * Any [challenge run](https://github.com/smorrrs/Shadow-Tactics-Resources/blob/main/challenges.md)
