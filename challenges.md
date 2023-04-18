@@ -8,7 +8,7 @@ Challenges created by community members. Most are challenges are designed to be 
 
 
 ## General Challenge Rulesets
-These are my personal suggestions for challenge rulesets applicable to all levels, although some challenge-level combos may be impossible. All challenges are recommended to be done glitchless, but some challenges like Min Skills may be interesting with glitches. But use any rulesets that you .
+These are my personal suggestions for challenge rulesets applicable to all levels, although some challenge-level combos may be impossible. All challenges could be done with or without glitches, although glitchless will often be the higher challenge. Use any ruleset that you find interesting.
 
 **Solo Character**
 * Select 1 character to be unrestricted.
