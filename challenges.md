@@ -13,7 +13,8 @@ These are my personal suggestions for challenge rulesets applicable to all level
 **Solo Character**
 * Select 1 character to be unrestricted.
 * Minimize actions performed by other characters: skills, interactions, triggering alerts/suspicion.
-* Advanced challenge: minimize moves by other characters, and they may only run to move.
+* Bonus rule: minimize moves by other characters, and they may only run to move.
+* Bonus rule: kill all enemies
 
 
 **Min Skills**
