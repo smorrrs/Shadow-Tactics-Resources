@@ -15,11 +15,6 @@ These are my personal suggestions for challenge rulesets applicable to all level
 * Minimize actions performed by other characters: skills, interactions, triggering alerts/suspicion.
 * Advanced challenge: minimize moves by other characters, and they may only run to move.
 
-I categorize completions into 3 categories:
-* 0: Other characters perform no actions
-* R: Other characters perform the minimum possible actions and moves (1 move command per character per meetup + 1 move/action per required action), running only
-* M: Other characters perform the minimum possible actions (any movement is allowed)
-
 
 **Min Skills**
 * Minimize skills used (as appear on the final stats screen)
