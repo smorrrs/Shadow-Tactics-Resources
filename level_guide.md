@@ -110,7 +110,7 @@ You can throw a grenade through the castle's front gate if you click to the side
 
 Only the large barrel in the castle courtyard can blow up the depot, the small ones near Okkoto's tent don't affect it.
 
-Okkoto has the same properties as a samurai, so anything that takes them down will take him down, including Mugen's pistol or an explosive barrel placed at his spawn location before he appears.
+Okkoto has the same defenses as a samurai, so anything that takes them down will take him down, including Mugen's pistol or an explosive barrel placed at his spawn location before he appears. Okkoto can't be lured though.
 
 
 ## Kage-sama's Camp
