@@ -1,10 +1,10 @@
 # Full Game Timer Guide
 This is a guide for setting up the timer for full game runs.
 
-This timer includes an autosplitter specifically designed for Desperados III, which will automatically:
+This timer is specifically designed for Shadow Tactics, which will automatically:
 * Start the timer once Osaka Castle is loaded
 * Split the timer upon loading each subsequent level
-* Stop the timer on the final stats screen of Sunpu Castle [NOTE: This doesn't appear to work for all players. You may have to manually end the timer if it doesn't work for you.]
+* Stop the timer on the final stats screen of Sunpu Castle
 * Pause the timer during any loads
 
 The timer does not include automated reset.
