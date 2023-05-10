@@ -1,4 +1,4 @@
-# Full Game Timer Guide
+# Full Game Timer Setup Guide
 This is a guide for setting up the timer for full game runs.
 
 This timer is specifically designed for Shadow Tactics, which will automatically:
