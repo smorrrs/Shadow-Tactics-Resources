@@ -36,9 +36,10 @@ When you launch LiveSplit.exe for the first time, you should see a black box wit
 2. For *Game Name*, start typing "Shadow Tactics: Blades of the Shogun" and select the same from the dropdown.
 3. For *Run Category*, enter the name of the category you're running (can be anything).
 4. Click the *Activate* button to enable the autosplitter.
-5. In the table, add a segment for each level of the game (use *Insert Below* to add more rows). You can call them anything but there must be 16 of them.
+5. In the table, add a segment for each level of the game (use *Insert Below* to add more rows). You can call them anything but there must be 13 of them.
 
-![splits](https://user-images.githubusercontent.com/104397629/196058538-ea6cdfc4-d6c2-400f-a2b5-cc795234743e.PNG)
+![st_splits_screenshot](https://github.com/smorrrs/Shadow-Tactics-Resources/assets/104397629/53d8cd10-d436-400e-b485-15beb2644e5e)
+
 
 6. Press *OK*
 
