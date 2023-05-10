@@ -26,7 +26,7 @@ LiveSplit is a timer app which has access to the Shadow Tactics autosplitter.
 Download LiveSplit here: https://livesplit.org/downloads/
 
 
-## Configuring LiveSplit
+## Configuring Splits
 When you launch LiveSplit.exe for the first time, you should see a black box with 0.00 appear.
 
 1. Right-click the box and select "Edit Splits..." to open the Splits Editor
@@ -37,27 +37,27 @@ When you launch LiveSplit.exe for the first time, you should see a black box wit
 3. For *Run Category*, enter the name of the category you're running (can be anything).
 4. Click the *Activate* button to enable the autosplitter.
 5. In the table, add a segment for each level of the game (use *Insert Below* to add more rows). You can call them anything but there must be 13 of them.
+6. Press *OK*
 
 ![st_splits_screenshot](https://github.com/smorrrs/Shadow-Tactics-Resources/assets/104397629/53d8cd10-d436-400e-b485-15beb2644e5e)
 
 
-6. Press *OK*
-
-The timer should now be fully configured and automatically begin when you start the first level of the game.
-
-
-## Adding Timer with Loads
+## Configure Layout
 In addition to the timer with load removal, you can add a second timer that includes loads:
 
-1. Right-click LiveSplit and select "Edit Layout..."
-2. Click the "+" button and select Timer > Timer
-3. Click Layout Settings
-4. Select the tab for the new Timer (will be the last one by default)
-5. Set Timing Method to Real Time
-6. The previous Timer should have Timing Method set to Game Time
-7. You can set which timer your splits are based off of by going to the Splits tab and setting all Timing Methods to Game Time for loadless or Real Time for time with loads
+1. Close the Split Editor window if open
+2. Right-click the LiveSplit timer window and select "Edit Layout..."
+3. Select the Timer component then click "Layout Settings"
+4. Set the Timing Method to "Game Time"
 
-![layout settings](https://user-images.githubusercontent.com/104397629/196529329-6884209c-d2e0-48b1-8053-e839b10325bf.PNG)
+![game_time](https://github.com/smorrrs/Shadow-Tactics-Resources/assets/104397629/be0695e2-d3b6-40ac-bf90-13ba63347a3c)
+
+If you want to have a real-time timer along with the load-removed timer:
+5. Close Layout Settings but keep the Layout Editor open.
+6. Click the "+" button and select Timer > Timer
+7. Click Layout Settings
+8. Select the tab for the new Timer (it will be the last one by default)
+9. Set Timing Method to Real Time
 
 
 ## Troubleshooting
