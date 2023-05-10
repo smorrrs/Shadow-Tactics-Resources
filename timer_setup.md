@@ -43,7 +43,6 @@ When you launch LiveSplit.exe for the first time, you should see a black box wit
 
 
 ## Configure Layout
-In addition to the timer with load removal, you can add a second timer that includes loads:
 
 1. Close the Split Editor window if open
 2. Right-click the LiveSplit timer window and select "Edit Layout..."
@@ -53,6 +52,7 @@ In addition to the timer with load removal, you can add a second timer that incl
 ![game_time](https://github.com/smorrrs/Shadow-Tactics-Resources/assets/104397629/be0695e2-d3b6-40ac-bf90-13ba63347a3c)
 
 If you want to have a real-time timer along with the load-removed timer:
+
 5. Close Layout Settings but keep the Layout Editor open.
 6. Click the "+" button and select Timer > Timer
 7. Click Layout Settings
